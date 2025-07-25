@@ -1,1 +1,1 @@
-# Spotify-clone
+# Spotify-clone in MERN Stack
